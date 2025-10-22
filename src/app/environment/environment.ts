@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
-  groqApiKey: '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',
+  groqApiKey: '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',
   groqApiUrl: 'https://api.groq.com/openai/v1/chat/completions'
 };
